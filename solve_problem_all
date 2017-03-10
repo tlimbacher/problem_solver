@@ -1,0 +1,5 @@
+#!/bin/bash
+
+advise_output="Deal with it!"
+
+echo "$advise_output"
